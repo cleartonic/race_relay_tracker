@@ -1,5 +1,5 @@
 team_names: ["Team A", "Team B", "Team C", "Team D"]
-team_icons: ['team1.png', 'team2.png', 'team3.png', 'team4.png']
+team_icons: ['dust.png', 'ring.png', 'dive.png', 'pharaoh.png']
 segment_names : ["Goal 1", "Goal 2", "Goal 3", "Goal 4", "Goal 5", "Goal 6", "Goal 7", "Goal 8", "Goal 9", "Goal 10", "Goal 11", "Goal 12"]
 font: "Roboto"
 background_color : "#000000"
