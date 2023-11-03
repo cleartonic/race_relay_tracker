@@ -1,0 +1,6 @@
+build/*
+dist/*
+other/*
+instructions.txt
+relay_script.spec
+release/*
