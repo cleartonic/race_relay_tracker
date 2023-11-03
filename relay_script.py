@@ -239,7 +239,7 @@ class MainApp(object):
             self.config = yaml.safe_load(f)
         
         try:
-            self.config['teams'] = len(self.config['team_names'])
+            self.config['teams'] = max(len(self.config['team_names']), 4)
             self.config['segments'] = len(self.config['segment_names'])
             self.config['segments_view'] = min(self.config['segments'], self.SEGMENTS_VIEW_MIN)
             self.current_view_limit = self.config['segments_view']
