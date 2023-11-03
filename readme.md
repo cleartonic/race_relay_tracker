@@ -7,7 +7,7 @@ This is a standalone application that keeps track of segments, teams with a simp
 - Allows up to four teams/racers to be tracked
 
 # Download
-Please use the [latest Release](/releases/latest/) for the initial download.
+Please use the [latest Release](https://github.com/cleartonic/race_relay_tracker/releases) for the initial download.
 
 # Setup
 All configurations are either set up in the `config.yml` file, or in the application itself. Use a text editor to open this file, and change the parameters.  
