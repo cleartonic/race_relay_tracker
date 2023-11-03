@@ -1,6 +1,6 @@
 # Race / Relay Tracker
 
-This is a standalone application that keeps track of segments, teams with a simple layout. It is designed for OBS Window Capture use via a 480x360 application layout.
+This is a standalone application that keeps track of segments and team progress with a simple layout. It is designed for OBS Window Capture use via a 480x360 application layout.
 
 ![](https://github.com/cleartonic/race_relay_tracker/blob/main/screens/screen1.png)
 
