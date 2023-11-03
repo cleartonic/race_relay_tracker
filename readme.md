@@ -2,6 +2,8 @@
 
 This is a standalone application that keeps track of segments, teams with a simple layout. It is designed for OBS Window Capture use via a 480x360 application layout.
 
+![](https://github.com/cleartonic/race_relay_tracker/blob/main/screens/screen1.png)
+
 # Features
 - Keeps track of any number of segments
 - Allows up to four teams/racers to be tracked
@@ -17,6 +19,9 @@ The configuration file is set up for an initial run. Please adhere to the same f
 Any image can be used for team icons, though the default is set to 32x32px. Anything over 50x50px will be shrunk. 
 
 Right click -> Settings for additional settings in the application. Settings will not be saved to the `config.yml` file automatically, so you will have to manually edit this file to save changes you make. 
+
+![](https://github.com/cleartonic/race_relay_tracker/blob/main/screens/screen2.png)
+
 
 The segments area can be scrolled using the mouse wheel. There is an option to enable up/down buttons in the Settings menu. 
 
